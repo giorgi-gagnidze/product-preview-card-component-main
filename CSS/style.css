@@ -92,3 +92,8 @@ body {
   border-radius: 10px;
   font-weight: 700;
 }
+
+.main__btn:hover {
+  cursor: pointer;
+  background-color: hsl(212, 21%, 14%);
+}
